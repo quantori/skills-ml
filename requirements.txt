@@ -1,3 +1,4 @@
+boto==2.49.0
 boto3==1.17.106
 botocore==1.20.106
 pandas==1.1.5
