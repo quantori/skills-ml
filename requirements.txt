@@ -1,18 +1,20 @@
-pandas==0.23.4
-requests==2.20.1
+boto3==1.17.106
+botocore==1.20.106
+pandas==1.1.5
+requests==2.25.1
 scikit-learn==0.20.0
 scipy==1.1.0
 nltk==3.2.5 # pyup: ignore
-pytest==3.10.1
+pytest==6.2.4
 Elasticsearch==6.3.1
 gensim==3.6.0 # pyup: ignore
 annoy==1.14.0
 unicodecsv==0.14.1
 us==1.0.0
-Sqlalchemy==1.2.14
+Sqlalchemy==1.3.23
 geocoder==1.38.1
 psycopg2==2.7.6.1
-alembic==1.0.2
+alembic==1.5.6
 retrying==1.3.3
 fiona==1.8.0
 shapely==1.6.4.post2
