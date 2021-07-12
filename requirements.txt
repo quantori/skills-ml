@@ -14,7 +14,7 @@ unicodecsv
 us
 Sqlalchemy
 geocoder
-psycopg2
+psycopg2-binary
 alembic
 retrying
 fiona
