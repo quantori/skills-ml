@@ -5,7 +5,7 @@ import logging
 
 import nltk
 try:
-    nltk.pos_tag('test')
+    nltk.pos_tag(['test'])
 except LookupError:
     nltk.download('averaged_perceptron_tagger')
 
