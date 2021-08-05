@@ -5,7 +5,7 @@ pandas
 requests
 scikit-learn
 scipy
-nltk
+nltk==3.2.5 # pyup: ignore
 pytest
 Elasticsearch
 gensim==3.6.0 # pyup: ignore
